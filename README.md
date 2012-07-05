@@ -3,6 +3,8 @@ PianoMatic3000
 
 Arduino-powered Midi note counter and RGB light
 
+Photo / details: http://musicthing.co.uk/modular/?p=187
+
  Circuit: 
  
  Midi isolation/inversion circuit from:
